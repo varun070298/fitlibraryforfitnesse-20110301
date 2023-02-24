@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="fitnesse/lib/src/fitbookSrc"/>
+	<classpathentry kind="src" path="fitnesse/lib/src/fitlibrarySrc"/>
+	<classpathentry kind="src" path="fitnesse/lib/src/rentEzSrc"/>
+	<classpathentry kind="lib" path="fitnesse/fitlibrary.jar"/>
+	<classpathentry kind="lib" path="fitnesse/lib/fitbook.jar"/>
+	<classpathentry kind="lib" path="fitnesse/lib/hamcrest-all-1.2.jar"/>
+	<classpathentry kind="lib" path="fitnesse/lib/jmock-2.5.1.jar"/>
+	<classpathentry kind="lib" path="fitnesse/lib/jmock-junit4-2.5.1.jar"/>
+	<classpathentry kind="lib" path="fitnesse/lib/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="fitnesse/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="fitnesse/lib/ognl-2.7.2.jar"/>
+	<classpathentry kind="lib" path="fitnesse/lib/poi-3.1-FINAL-20080629.jar"/>
+	<classpathentry kind="lib" path="fitnesse/lib/rentEz.jar"/>
+	<classpathentry kind="lib" path="lib/fitnesse-20110104.jar"/>
+	<classpathentry kind="lib" path="lib/ntaf-fitnesse-20101108.jar"/>
+	<classpathentry kind="lib" path="lib/fitnesse-standalone.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
